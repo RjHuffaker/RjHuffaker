@@ -1,6 +1,6 @@
 Hello :)
 
-I am Ryan Huffaker, and I do a lot of different things. I have a BA in English with an emphasis in Creative Writing, but since graduating in 2011 I have also taught myself how to build responsive web applications using the latest Javascript frameworks such as React and Angular. I also have extensive experience writing Javascript userscripts to streamline repetitive work processes and provide flexible functionality to existing web pages.
+I am Ryan Huffaker, and I do a lot of different things. I have a BA in English with an emphasis in Creative Writing, but since graduating in 2011 I have also taught myself how to build responsive web applications using the latest JavaScript frameworks such as React and Angular. I also have extensive experience writing Javascript userscripts to streamline repetitive work processes and provide flexible functionality to existing web pages.
 
 When not altering the very fabric of internet reality, I find myself drawn to a life of adventure and exploration, traveling the country full-time with my spouse and four children. One of our most recent adventures was to convert a retired school bus into a pirate-ship on wheels, but with beds and appliances instead of cannons, and solar panels instead of sails. In other words, a skoolie.
 
